@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.
- *
+ * 
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
  * are met:
@@ -34,6 +34,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, New galaxy");// Comment added
+    System.out.println("Hello, New galaxy");// Comment added tayyabmehmood
   }
 }
