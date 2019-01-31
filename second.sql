@@ -1,0 +1,13 @@
+WITH ALPHA as (
+SELECT * 
+FROM 
+CARS
+WHERE X=1
+
+)
+BETA as (
+    SELECT *
+    FROM
+    VOLVOCARS
+    X=2
+)
