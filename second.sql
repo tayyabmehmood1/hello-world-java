@@ -20,5 +20,6 @@ CHARLIE as (
 delta as (
 1 =1
 2 =2 
+3 = 3
 
 )
