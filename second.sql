@@ -8,7 +8,7 @@ WHERE X=12
 Bravo as (
     SELECT *
     FROM
-    VOLVOCARS_Buses
+    VOLVOCARS_Tractors
     X=2
 )
 CHARLIE as (
