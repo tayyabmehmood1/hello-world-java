@@ -17,3 +17,7 @@ CHARLIE as (
     VOLVOCARS
     X=2
 )
+delta as (
+1 =1
+
+)
