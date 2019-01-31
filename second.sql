@@ -15,7 +15,7 @@ CHARLIE as (
     SELECT *
     FROM
     VOLVOCARS
-    X=2
+    X=pak
 )
 delta as (
 1 =1
