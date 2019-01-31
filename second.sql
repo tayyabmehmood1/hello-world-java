@@ -5,7 +5,13 @@ CARS
 WHERE X=1
 
 )
-BETA as (
+Bravo as (
+    SELECT *
+    FROM
+    VOLVOCARS
+    X=2
+)
+CHARLIE as (
     SELECT *
     FROM
     VOLVOCARS
