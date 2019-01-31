@@ -2,7 +2,7 @@ WITH ALPHA as (
 SELECT * 
 FROM 
 CARS
-WHERE X=1
+WHERE X=12
 
 )
 Bravo as (
